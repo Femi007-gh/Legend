@@ -1,0 +1,42 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.ld {
+  font-size: 20px;
+}
+
+.doc {
+  height: 10px;
+  width: 10px;
+}
+
+.field {
+  border: 2px solid #111;
+  height: 95%;
+}
+
+.FN {
+  margin-top: 20px;
+  margin-left: 500px;
+  border-style: solid;
+}
+
+.LN {
+  margin-top: 20px;
+  margin-left: 502px;
+  border-style: solid;
+}
+
+.email {
+  margin-top: 20px;
+  margin-left:536px;
+  border-style: solid;
+}
+
+.age {
+  margin-top: 300px;
+  margin-left: 540px;
+  border-style: solid; 
+}
