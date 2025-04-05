@@ -1,10 +1,6 @@
 body {
   font-family:Arial, Helvetica, sans-serif;
   font-weight: bold;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: yellow;
 }
 
 .ld {
@@ -15,6 +11,10 @@ body {
   border: 2px solid #111;
   width: 400px;
   height: 280px;
+  margin-left: 430px;
+  margin-top: -420px;
+  position: absolute;
+  position
 }
 
 .FN {
@@ -66,4 +66,11 @@ input {
 
 .sub:hover {
   background-color: blue;
+}
+
+.blue {
+  width: 102%;
+  height: 105%;
+  margin-top: -8px;
+  margin-left: -8px;
 }
