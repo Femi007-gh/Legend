@@ -58,9 +58,3 @@ input {
 ::placeholder {
   font-size: 25;
 }
-
-button {
-  margin-top: 20px;
-  height: 50px;
-  font-size: 25px;
-}

@@ -58,15 +58,14 @@ input {
 }
 
 .sub {
-  height: 60px;
-  width: 200px;
-  margin-left: 230px;
-  margin-top: 30px;
+  height: 100px;
+  width: 2000px;
+  margin-left: 150px;
+  margin-top: 15px;
   border: none;
   background-color: pink;
   border-style: solid;
   cursor: pointer;
-  font-size: 30px;
 }
 
 .sub:hover {

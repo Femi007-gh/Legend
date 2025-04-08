@@ -46,7 +46,7 @@ body {
 
 .age {
   margin-top: 20px;
-  margin-left: 143px;
+  margin-left: 136px;
   border-style: solid;
   height: 70px;
   width: 410px;
@@ -58,15 +58,14 @@ input {
 }
 
 .sub {
-  height: 60px;
-  width: 200px;
-  margin-left: 230px;
-  margin-top: 30px;
+  height: 40px;
+  width: 100px;
+  margin-left: 150px;
+  margin-top: 15px;
   border: none;
   background-color: pink;
   border-style: solid;
   cursor: pointer;
-  font-size: 30px;
 }
 
 .sub:hover {
